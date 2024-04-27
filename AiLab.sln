@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiLab", "AiLab.csproj", "{DA6629F7-B36C-4150-96B4-CF4D1BB22C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6629F7-B36C-4150-96B4-CF4D1BB22C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6629F7-B36C-4150-96B4-CF4D1BB22C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6629F7-B36C-4150-96B4-CF4D1BB22C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6629F7-B36C-4150-96B4-CF4D1BB22C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {355A3FB1-4CBF-4003-88C9-1637D9C09F03}
+	EndGlobalSection
+EndGlobal
